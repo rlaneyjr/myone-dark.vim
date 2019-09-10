@@ -1,0 +1,10 @@
+name: 'myone-dark.vim'
+version: '1.0.0'
+license: 'MIT'
+author: 'Ricky Laney'
+url: ''
+description: ''
+colorschemes:
+  - name: myone-dark.vim
+    background: 'dark'
+    palette: myone-dark.vim
